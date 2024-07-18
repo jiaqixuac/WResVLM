@@ -16,13 +16,13 @@ scripts/__init__.py
 version.py
 
 # ignored files with suffix
-*.html
-*.png
-*.jpeg
-*.jpg
-*.gif
-*.pth
-*.zip
+# *.html
+# *.png
+# *.jpeg
+# *.jpg
+# *.gif
+# *.pth
+# *.zip
 
 # template
 
