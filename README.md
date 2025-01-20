@@ -17,6 +17,10 @@ We use several (pseudo-)synthetic datasets, including [Outdoor-Rain](https://git
 Meanwhile, we use real-world data from [URHI](https://sites.google.com/view/reside-dehaze-datasets/reside-%CE%B2) and our collected real rain and snow images for model training.
 The real rain and snow images can be downloaded [here](https://appsrv.cse.cuhk.edu.hk/~jqxu/data/WResVLM/WReal.zip).
 
+## Acknowledgements
+
+We would like to express our gratitude for the codes, including [Q-Align](https://github.com/Q-Future/Q-Align), which are the bases for building our project.
+
 ## License
 
 This project is released under the [MIT license](./LICENSE).
