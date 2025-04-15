@@ -15,7 +15,8 @@ Jiaqi Xu, Mengyang Wu, Xiaowei Hu, Chi-Wing Fu, Qi Dou, Pheng-Ann Heng
 
 We use several (pseudo-)synthetic datasets, including [Outdoor-Rain](https://github.com/liruoteng/HeavyRainRemoval), [RainDrop](https://github.com/rui1996/DeRaindrop), [SPA](https://github.com/zhuyr97/WGWS-Net), [OTS](https://sites.google.com/view/reside-dehaze-datasets/reside-%CE%B2), [Snow100K](https://sites.google.com/view/yunfuliu/desnownet).
 Meanwhile, we use real-world data from [URHI](https://sites.google.com/view/reside-dehaze-datasets/reside-%CE%B2) and our collected real rain and snow images for model training.
-The real rain and snow images can be downloaded [here](https://appsrv.cse.cuhk.edu.hk/~jqxu/data/WResVLM/WReal.zip).
+The real rain and snow images used for training can be downloaded [here](https://appsrv.cse.cuhk.edu.hk/~jqxu/data/WResVLM/WReal.zip).
+The 2,320 filtered real rain images from [DDN-SIRR](https://github.com/wwzjer/Semi-supervised-IRR) and [Real3000](https://github.com/Yueziyu/RainDirection-and-Real3000-Dataset), used for testing, can be downloaded [here](https://appsrv.cse.cuhk.edu.hk/~jqxu/data/WResVLM/RealRain_2320.zip).
 
 ## Acknowledgements
 
